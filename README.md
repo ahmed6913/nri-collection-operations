@@ -100,3 +100,24 @@ This creates a simple comparison between **COD** and **non-COD/prepaid orders**.
 - Analyze customer returns
 - Create final KPI summary
 - Run RTO opportunity scenario analysis
+
+  
+  
+# 📊 Power BI Dashboard
+
+### The Python analysis was converted into an interactive Power BI dashboard.
+
+Core DAX Measures
+
+The dashboard includes:
+
+- Total Orders
+- Delivered Orders
+- Cancelled Orders
+- Shipped Orders
+- RTO Orders
+- RTO Rate %
+- Returned Orders
+- Return Rate %
+- Delivery Rate %
+- Order Share %
