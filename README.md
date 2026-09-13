@@ -89,14 +89,14 @@ This creates a simple comparison between **COD** and **non-COD/prepaid orders**.
 
 
 
-Analysis Workflow
-Load the orders dataset
-Create COD vs Prepaid classification
-Calculate order volume
-Calculate payment-method share
-Analyze delivery performance
-Calculate shipped orders
-Analyze RTO performance
-Analyze customer returns
-Create final KPI summary
-Run RTO opportunity scenario analysis
+- Analysis Workflow
+- Load the orders dataset
+- Create COD vs Prepaid classification
+- Calculate order volume
+- Calculate payment-method share
+- Analyze delivery performance
+- Calculate shipped orders
+- Analyze RTO performance
+- Analyze customer returns
+- Create final KPI summary
+- Run RTO opportunity scenario analysis
