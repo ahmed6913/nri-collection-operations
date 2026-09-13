@@ -6,6 +6,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Operations%20Analytics-purple)
 
+<img width="1200" height="676" alt="Screenshot 2026-09-14 001032" src="https://github.com/user-attachments/assets/4254b1ce-4b93-4ca5-94b6-0f79b35027bf" />
+
 ---
 
 ## 📌 Project Overview
